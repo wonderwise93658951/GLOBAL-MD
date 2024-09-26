@@ -15,13 +15,13 @@ global.ownername = '© ʇɹǝqǝı˥ υɐɥoſ' //ur owner name
 global.websitex = "https://www.youtube.com/@GlobalTechInfo"
 global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
 global.themeemoji = '🪀'
-global.wm = "Global Bot Inc."
+global.wm = "ʇɹǝqǝı˥ υɐɥoſ."
 global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
 global.packname = "Sticker By ʇɹǝqǝı˥ υɐɥoſ"
-global.author = "GlobalTechInfo\n\n+923444844060"
+global.author = "ʇɹǝqǝı˥ υɐɥoſ\n\n+22893658951"
 global.creator = "22893658951@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923444844060"] // Premium User
+global.premium = ["22893658951"] // Premium User
 
 //channel id
 global.xchannel = {
